@@ -1,5 +1,5 @@
 Greeting.create!(greeting: 'Hello, Otto!')
-Greeting.create!(greeting: 'Kedu, Otto!')
-Greeting.create!(greeting: 'Bawoni, Otto!')
-Greeting.create!(greeting: 'Yaya, Otto!')
+Greeting.create!(greeting: 'Konbawa, Otto!')
+Greeting.create!(greeting: 'Ekaro, Otto!')
+Greeting.create!(greeting: 'Hola, Otto!')
 Greeting.create!(greeting: 'Bwanji, Otto!')
